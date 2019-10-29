@@ -34,7 +34,7 @@ bentinder = bentinder[,2:8]
 bentinder[,1] = ymd(bentinder[,1])
 ```
 
-![](tinder.png)
+![](resources/tinder_study/tinder.png)
 
 
 ## Introduction
@@ -190,9 +190,9 @@ I had expected that my record usage would come with travel, but it seems that it
 
 A quick look back at the photos I took on those days confirms the sheer mundanity of my record-setting Tinder marathons.
 
-![April 10, 2016](20160410_185359.jpg)
-![April 13, 2016](20160413_201214.jpg)
-![February 4, 2017](20170204_090225.jpg)
+![April 10, 2016](resources/tinder_study/20160410_185359.jpg)
+![April 13, 2016](resources/tinder_study/20160413_201214.jpg)
+![February 4, 2017](resources/tinder_study/20170204_090225.jpg)
 
 I swiped 12,250 times on the days I took those photos.
 
